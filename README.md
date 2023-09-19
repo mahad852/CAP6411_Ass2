@@ -34,7 +34,6 @@ You can add support for more environments, but this would require going through 
 # Installation
 First, create a conda environment named v
 ```
-
 conda create --name vit_ass -c conda-forge python=3.9
 ```
 
